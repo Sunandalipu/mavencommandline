@@ -21,6 +21,7 @@ public class Practice1Test {
 	@Test
 	public void practice4Test()
 	{
-		System.out.println("Tyss4-->test2");
+		System.out.println(""Tyss5-->test2");
+		System.out.println("bye")
 	}
 }
