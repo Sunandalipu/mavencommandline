@@ -18,4 +18,9 @@ public class Practice1Test {
 		System.out.println("Tyss3-->test2");
 
 	}
+	@Test
+	public void practice4Test()
+	{
+		System.out.println("Tyss4-->test2");
+	}
 }
