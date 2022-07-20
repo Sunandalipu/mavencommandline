@@ -26,5 +26,6 @@ public class Practice1Test {
 		System.out.println("hii");
 		System.out.println("quick");
 		System.out.println("hike");
+		System.out.println("hike");
 	}
 }
