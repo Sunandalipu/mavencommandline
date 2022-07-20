@@ -17,6 +17,7 @@ public class PracticeTest {
     @Test
    	public  void practice3Test() {
    		System.out.println("Tyss3-->test1");
+		System.out.println("happy");
 
    	}
 }
