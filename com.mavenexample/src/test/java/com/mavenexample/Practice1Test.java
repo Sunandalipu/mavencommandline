@@ -21,7 +21,7 @@ public class Practice1Test {
 	@Test
 	public void practice4Test()
 	{
-		System.out.println(""Tyss5-->test2");
-		System.out.println("bye")
+		System.out.println("Tyss5-->test2");
+		System.out.println("bye12345");
 	}
 }
