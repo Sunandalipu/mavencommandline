@@ -22,10 +22,6 @@ public class Practice1Test {
 	public void practice4Test()
 	{
 		System.out.println("Tyss5-->test2");
-		System.out.println("bye");
-		System.out.println("hii");
-		System.out.println("quick");
-		System.out.println("hike");
-		System.out.println("hike123");
+
 	}
 }
