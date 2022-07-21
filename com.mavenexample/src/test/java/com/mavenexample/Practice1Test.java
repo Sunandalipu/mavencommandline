@@ -22,9 +22,6 @@ public class Practice1Test {
 	public void practice4Test()
 	{
 		System.out.println("Tyss5-->test2");
-		System.out.println("bye12345");
 
-		System.out.println("bye1344");
- 
 	}
 }
